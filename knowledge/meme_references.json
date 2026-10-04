@@ -1,0 +1,144 @@
+{
+  "memes": [
+    {
+      "name": "Ramanan",
+      "format": "Used to describe someone who is constantly failing or being made fun of.",
+      "origin": "Punjabi House",
+      "example_comeback": "Don't act like a Ramanan here.",
+      "trending": true
+    },
+    {
+      "name": "Dashamoolam Damu",
+      "format": "Showing fake courage but actually scared.",
+      "origin": "Chattambinadu",
+      "example_comeback": "Nee oru Dashamoolam Damu aavan nokkanda.",
+      "trending": true
+    },
+    {
+      "name": "Manavalan",
+      "format": "Doing something stupid with confidence.",
+      "origin": "Pulival Kalyanam",
+      "example_comeback": "Manavalan style-il thallan nokkuvaano?",
+      "trending": true
+    },
+    {
+      "name": "Pavanan",
+      "format": "Someone who gets beaten up but pretends it's nothing.",
+      "origin": "Sandesham",
+      "example_comeback": "Pavanayi shavamayi. That's you right now.",
+      "trending": true
+    },
+    {
+      "name": "Polandine patti",
+      "format": "Deflecting from the actual topic.",
+      "origin": "Sandesham",
+      "example_comeback": "Stop talking about Poland and face the truth.",
+      "trending": false
+    },
+    {
+      "name": "Gafoor ka dost",
+      "format": "A fake or unreliable contact/excuse.",
+      "origin": "Nadodikkattu",
+      "example_comeback": "Nee Gafoor ka dost aano ithra thallan?",
+      "trending": true
+    },
+    {
+      "name": "Kumbalangi Shammi smile",
+      "format": "Creepy, narcissistic fake smile.",
+      "origin": "Kumbalangi Nights",
+      "example_comeback": "Stop giving me that Shammi smile.",
+      "trending": true
+    },
+    {
+      "name": "Kochi pazhaya Kochi",
+      "format": "Claiming you haven't changed your badass ways.",
+      "origin": "Big B",
+      "example_comeback": "Kochi pazhaya Kochi alla, njanum.",
+      "trending": true
+    },
+    {
+      "name": "Oru load pucham",
+      "format": "Looking at someone with extreme disdain.",
+      "origin": "Various / Troll Malayalam",
+      "example_comeback": "*Oru load pucham* is all you deserve.",
+      "trending": true
+    },
+    {
+      "name": "Chathi",
+      "format": "Realizing you've been played.",
+      "origin": "Maheshinte Prathikaaram",
+      "example_comeback": "Edi/Eda... chathikko?",
+      "trending": true
+    },
+    {
+      "name": "Enthu patti",
+      "format": "Acting totally unbothered when someone expects a reaction.",
+      "origin": "Puthiya Mukham",
+      "example_comeback": "Enikku enthu patti? Oru kuzhappavum illa.",
+      "trending": true
+    },
+    {
+      "name": "Scene contra",
+      "format": "When a situation turns very bad.",
+      "origin": "Premam",
+      "example_comeback": "Nee kooduthal paranjal scene contra aavum.",
+      "trending": true
+    },
+    {
+      "name": "Njan enthu cheyyana",
+      "format": "Helplessness in a stupid situation.",
+      "origin": "Kalyanaraman",
+      "example_comeback": "Ninne kandal njan enthu cheyyana?",
+      "trending": true
+    },
+    {
+      "name": "Purushu anugrahikkanam",
+      "format": "Mock begging for mercy.",
+      "origin": "Meesha Madhavan",
+      "example_comeback": "Oh, Purushu enne anugrahikkanam!",
+      "trending": true
+    },
+    {
+      "name": "Vattalle",
+      "format": "Questioning someone's sanity.",
+      "origin": "Trance",
+      "example_comeback": "Ninakku vattalle? Athu apozhe paranjille.",
+      "trending": true
+    },
+    {
+      "name": "Chaambikko",
+      "format": "A cool sign-off or ordering to take action.",
+      "origin": "Bheeshma Parvam",
+      "example_comeback": "Njan parayunne theernnu. Chaambikko!",
+      "trending": true
+    },
+    {
+      "name": "Adipoli",
+      "format": "Sarcastic 'awesome' when things go wrong.",
+      "origin": "General Slang",
+      "example_comeback": "Adipoli, nannayittundu ninte thallu.",
+      "trending": true
+    },
+    {
+      "name": "Katta local",
+      "format": "Calling something completely standard-less.",
+      "origin": "Premam",
+      "example_comeback": "Your attitude is katta local.",
+      "trending": true
+    },
+    {
+      "name": "Aaraada",
+      "format": "Challenging authority aggressively.",
+      "origin": "Various",
+      "example_comeback": "Nee aaraada enikku class edukkan?",
+      "trending": true
+    },
+    {
+      "name": "Appoz pinne",
+      "format": "Looking for the next bad thing.",
+      "origin": "Innocent movies",
+      "example_comeback": "Appoz pinne ninte karyam njan parayanno?",
+      "trending": true
+    }
+  ]
+}

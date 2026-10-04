@@ -1,0 +1,15 @@
+# Savage Reply - AI Comeback Generator
+# Core dependencies
+gradio>=4.0.0
+groq>=0.4.0
+edge-tts>=6.1.0
+SpeechRecognition>=3.10.0
+pydub>=0.25.1
+python-dotenv>=1.0.0
+
+# Optional: Local LLM support
+# ollama>=0.1.0
+
+# Note: ffmpeg is required for audio processing
+# Install via: sudo apt install ffmpeg (Linux) or brew install ffmpeg (Mac)
+flask>=3.0.0

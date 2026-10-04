@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>J.O.H.A.N</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header class="app-header">
+            <h1>J.O.H.A.N</h1>
+        </header>
+
+        <section class="input-section">
+            <h2>What did the bully say?</h2>
+            
+            <div class="tabs">
+                <button class="tab-btn active" onclick="openTab('type-tab')">Type It</button>
+                <button class="tab-btn" onclick="openTab('record-tab')">Record It</button>
+            </div>
+
+            <div id="type-tab" class="tab-content active">
+                <textarea id="bully-text" placeholder="Type what the bully said here..." rows="3"></textarea>
+            </div>
+
+            <div id="record-tab" class="tab-content">
+                <div class="record-options">
+                    <label>They spoke in:</label>
+                    <select id="input-language">
+                        <option value="English">English</option>
+                        <option value="Malayalam">Malayalam</option>
+                    </select>
+                </div>
+                
+                <div class="recording-controls">
+                    <button id="record-btn" class="secondary-btn">Start Recording</button>
+                    <button id="stop-btn" class="secondary-btn" disabled>Stop Recording</button>
+                </div>
+                <p id="recording-status" class="status-msg"></p>
+                <div id="transcribed-text-container" style="display: none;">
+                    <label>Transcribed Text (edit if needed)</label>
+                    <textarea id="transcribed-text" rows="2"></textarea>
+                </div>
+            </div>
+        </section>
+
+        <section class="settings-section">
+            <div class="settings-grid">
+                <div class="setting-group">
+                    <label>Reply Language</label>
+                    <select id="output-language">
+                        <option value="English">English</option>
+                        <option value="Malayalam">Malayalam</option>
+                    </select>
+                </div>
+                
+                <div class="setting-group">
+                    <label>How many comebacks? (<span id="num-display">5</span>)</label>
+                    <input type="range" id="num-comebacks" min="3" max="7" value="5" oninput="document.getElementById('num-display').innerText = this.value">
+                </div>
+                
+                <div class="setting-group full-width">
+                    <label>Comeback Style</label>
+                    <div class="radio-group" id="style-group">
+                        <label><input type="radio" name="style" value="Adaptive (Auto)" checked> Adaptive (Auto)</label>
+                        <label><input type="radio" name="style" value="Savage"> Savage</label>
+                        <label><input type="radio" name="style" value="Funny"> Funny</label>
+                        <label><input type="radio" name="style" value="Cool & Unbothered"> Cool & Unbothered</label>
+                        <label><input type="radio" name="style" value="Intellectual"> Intellectual</label>
+                        <label><input type="radio" name="style" value="Movie Reference"> Movie Reference</label>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <div class="action-section">
+            <button id="generate-btn" class="primary-btn">GENERATE COMEBACKS</button>
+        </div>
+
+        <section class="results-section">
+            <h2>Your Comebacks</h2>
+            <div id="loading-spinner" style="display:none; text-align:center;">
+                <div class="spinner"></div>
+                <p>Generating fiery comebacks...</p>
+            </div>
+            <div id="results-container">
+                <div class="placeholder-msg">Your comebacks will appear here...</div>
+            </div>
+        </section>
+
+        <section class="tts-section" id="tts-section" style="display: none;">
+            <h2>Hear It Out Loud</h2>
+            <div class="tts-controls">
+                <div class="tts-setting">
+                    <label>Which comeback? (#)</label>
+                    <select id="tts-index"></select>
+                </div>
+                <div class="tts-setting">
+                    <label>Read in:</label>
+                    <select id="tts-language">
+                        <option value="English">English</option>
+                        <option value="Malayalam">Malayalam</option>
+                    </select>
+                </div>
+                <div class="tts-setting">
+                    <label>Voice:</label>
+                    <select id="tts-voice">
+                        <option value="Male">Male</option>
+                        <option value="Female">Female</option>
+                    </select>
+                </div>
+            </div>
+            <button id="speak-btn" class="secondary-btn">Read This Comeback</button>
+            <div id="audio-player-container" style="display: none; margin-top: 15px;">
+                <audio id="audio-player" controls style="width: 100%;"></audio>
+            </div>
+        </section>
+
+        <footer class="app-footer">
+        </footer>
+    </div>
+
+    <script src="/static/js/main.js"></script>
+</body>
+</html>

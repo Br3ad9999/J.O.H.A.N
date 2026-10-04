@@ -1,0 +1,274 @@
+{
+  "dialogues": [
+    {
+      "text_ml": "Avidathe kotharam thulakkuvan ee thekkumpattilakare kittilla.",
+      "text_en": "You won't get these Thekkumpattil guys to clean your palace.",
+      "actor": "Mohanlal",
+      "movie": "Narasimham",
+      "year": 2000,
+      "mood": "savage",
+      "context": "Rejecting a subservient role with attitude"
+    },
+    {
+      "text_ml": "Ente peru Suryanarayan... Induchoodan... vellamadi, kallukudi, pennupidi...",
+      "text_en": "My name is Suryanarayanan... Induchoodan... drinking, womanizing...",
+      "actor": "Mohanlal",
+      "movie": "Narasimham",
+      "year": 2000,
+      "mood": "cool",
+      "context": "Introducing oneself with unapologetic swagger"
+    },
+    {
+      "text_ml": "Njan Georgekutty, ithu ente bharya, makkal...",
+      "text_en": "I am Georgekutty, this is my wife, children...",
+      "actor": "Mohanlal",
+      "movie": "Drishyam",
+      "year": 2013,
+      "mood": "intellectual",
+      "context": "Calmly presenting an alibi"
+    },
+    {
+      "text_ml": "Aadu Thoma!",
+      "text_en": "Aadu Thoma!",
+      "actor": "Mohanlal",
+      "movie": "Spadikam",
+      "year": 1995,
+      "mood": "savage",
+      "context": "Iconic name drop"
+    },
+    {
+      "text_ml": "Ninte thanthayada, thantha!",
+      "text_en": "Your father, da, your father!",
+      "actor": "Mohanlal",
+      "movie": "Lucifer",
+      "year": 2019,
+      "mood": "savage",
+      "context": "Shutting down someone questioning authority"
+    },
+    {
+      "text_ml": "Ninne poloru nooru per vannaal... enikku oru chukkum cheyyan aavilla.",
+      "text_en": "Even if a hundred people like you come... you can't do a damn thing to me.",
+      "actor": "Mammootty",
+      "movie": "The King",
+      "year": 1995,
+      "mood": "savage",
+      "context": "Dismantling a politician's ego"
+    },
+    {
+      "text_ml": "Kochi pazhaya Kochi alla, pakshe Billa pazhaya Billa thanneya.",
+      "text_en": "Kochi is not the old Kochi, but Billa is the old Billa.",
+      "actor": "Mammootty",
+      "movie": "Big B",
+      "year": 2007,
+      "mood": "cool",
+      "context": "Reminding someone of past legacy"
+    },
+    {
+      "text_ml": "Chaambikko!",
+      "text_en": "Click the photo!",
+      "actor": "Mammootty",
+      "movie": "Bheeshma Parvam",
+      "year": 2022,
+      "mood": "cool",
+      "context": "A badass order to capture a moment"
+    },
+    {
+      "text_ml": "Oru CBI officerodu chodikkan paadillaatha chodyam.",
+      "text_en": "A question you shouldn't ask a CBI officer.",
+      "actor": "Mammootty",
+      "movie": "Oru CBI Diary Kurippu",
+      "year": 1988,
+      "mood": "intellectual",
+      "context": "Polite but firm rejection"
+    },
+    {
+      "text_ml": "Just remember that!",
+      "text_en": "Just remember that!",
+      "actor": "Suresh Gopi",
+      "movie": "Commissioner",
+      "year": 1994,
+      "mood": "savage",
+      "context": "Aggressive warning"
+    },
+    {
+      "text_ml": "Ormayundo ee mugham?",
+      "text_en": "Do you remember this face?",
+      "actor": "Suresh Gopi",
+      "movie": "Commissioner",
+      "year": 1994,
+      "mood": "intense",
+      "context": "Intimidating an old enemy"
+    },
+    {
+      "text_ml": "Eda chandrappan...",
+      "text_en": "Hey Chandrappan...",
+      "actor": "Suresh Gopi",
+      "movie": "Lelam",
+      "year": 1997,
+      "mood": "savage",
+      "context": "Dismissing an opponent with a casual insult"
+    },
+    {
+      "text_ml": "Shammi hero aada hero!",
+      "text_en": "Shammi is a hero, da, a hero!",
+      "actor": "Fahadh Faasil",
+      "movie": "Kumbalangi Nights",
+      "year": 2019,
+      "mood": "savage",
+      "context": "Creepy narcissistic assertion"
+    },
+    {
+      "text_ml": "Edi... chathikko...",
+      "text_en": "Girl... trick me...",
+      "actor": "Fahadh Faasil",
+      "movie": "Maheshinte Prathikaaram",
+      "year": 2016,
+      "mood": "funny",
+      "context": "Awkward yet funny realization"
+    },
+    {
+      "text_ml": "Vattalle... apozhe paranjille vattanennu...",
+      "text_en": "Isn't it madness... didn't I say it's madness earlier...",
+      "actor": "Fahadh Faasil",
+      "movie": "Trance",
+      "year": 2020,
+      "mood": "intellectual",
+      "context": "Mocking someone's sanity"
+    },
+    {
+      "text_ml": "Nee angane thanne nilkk... njan vannu tharaam.",
+      "text_en": "You stay right there... I'll come and give it to you.",
+      "actor": "Prithviraj",
+      "movie": "Ayyappanum Koshiyum",
+      "year": 2020,
+      "mood": "savage",
+      "context": "Threatening comeback over the phone"
+    },
+    {
+      "text_ml": "Enikku enthu patti? Enikku oru kuzhappavum illallo.",
+      "text_en": "What happened to me? I don't have any problem.",
+      "actor": "Prithviraj",
+      "movie": "Puthiya Mukham",
+      "year": 2009,
+      "mood": "cool",
+      "context": "Feigning innocence while being dangerous"
+    },
+    {
+      "text_ml": "Ente pillere thottal... njan kollaam.",
+      "text_en": "If you touch my kids... I'll kill you.",
+      "actor": "Prithviraj",
+      "movie": "Lucifer",
+      "year": 2019,
+      "mood": "intense",
+      "context": "Fierce loyalty warning"
+    },
+    {
+      "text_ml": "Kurukkan mooliyatha...",
+      "text_en": "Just a fox howling...",
+      "actor": "Tovino Thomas",
+      "movie": "Minnal Murali",
+      "year": 2021,
+      "mood": "funny",
+      "context": "Downplaying a massive event casually"
+    },
+    {
+      "text_ml": "Manavaalan Wazim aano... atho...",
+      "text_en": "Is it Manavaalan Wazim... or...",
+      "actor": "Tovino Thomas",
+      "movie": "Thallumaala",
+      "year": 2022,
+      "mood": "cool",
+      "context": "Cool intro dialogue"
+    },
+    {
+      "text_ml": "CID Moosa, the name is Moosa, CID Moosa.",
+      "text_en": "CID Moosa, the name is Moosa, CID Moosa.",
+      "actor": "Dileep",
+      "movie": "CID Moosa",
+      "year": 2003,
+      "mood": "funny",
+      "context": "Comedic James Bond parody intro"
+    },
+    {
+      "text_ml": "Purushu enne anugrahikkanam.",
+      "text_en": "Purushu, please bless me.",
+      "actor": "Dileep",
+      "movie": "Meesha Madhavan",
+      "year": 2002,
+      "mood": "funny",
+      "context": "Sarcastic submission"
+    },
+    {
+      "text_ml": "Ramanan... kalyana ramanan...",
+      "text_en": "Ramanan... wedding Ramanan...",
+      "actor": "Dileep",
+      "movie": "Punjabi House",
+      "year": 1998,
+      "mood": "funny",
+      "context": "Teasing a friend's misery"
+    },
+    {
+      "text_ml": "Akkaldama... asokaa...",
+      "text_en": "Akkaldama... Asoka...",
+      "actor": "Jagathy Sreekumar",
+      "movie": "Yodha",
+      "year": 1992,
+      "mood": "funny",
+      "context": "Muttering nonsense to confuse someone"
+    },
+    {
+      "text_ml": "Vellam... vellam...",
+      "text_en": "Water... water...",
+      "actor": "Jagathy Sreekumar",
+      "movie": "Kilukkam",
+      "year": 1991,
+      "mood": "funny",
+      "context": "Exaggerated reaction to shock"
+    },
+    {
+      "text_ml": "Polandine patti oraksharam mindaruthu!",
+      "text_en": "Don't utter a single word about Poland!",
+      "actor": "Sreenivasan",
+      "movie": "Sandesham",
+      "year": 1991,
+      "mood": "intellectual",
+      "context": "Absurd political deflection"
+    },
+    {
+      "text_ml": "Ellathinum athinte thaya samayam undu Dasa.",
+      "text_en": "Everything has its own time, Dasa.",
+      "actor": "Sreenivasan",
+      "movie": "Nadodikkattu",
+      "year": 1987,
+      "mood": "intellectual",
+      "context": "Philosophical excuse for being unemployed"
+    },
+    {
+      "text_ml": "Kambi mathi... kambi...",
+      "text_en": "Just the wire is enough... wire...",
+      "actor": "Innocent",
+      "movie": "Ramji Rao Speaking",
+      "year": 1989,
+      "mood": "funny",
+      "context": "Hilarious misunderstanding"
+    },
+    {
+      "text_ml": "Njan enthu cheyyana... ente shivam...",
+      "text_en": "What should I do... my lord Shiva...",
+      "actor": "Innocent",
+      "movie": "Kalyanaraman",
+      "year": 2002,
+      "mood": "funny",
+      "context": "Helpless comedic frustration"
+    },
+    {
+      "text_ml": "Adipoli... ellam koode sheri aayallo.",
+      "text_en": "Great... everything is messed up perfectly now.",
+      "actor": "Salim Kumar",
+      "movie": "Mayavi",
+      "year": 2007,
+      "mood": "funny",
+      "context": "Sarcastic acceptance of a bad situation"
+    }
+  ]
+}

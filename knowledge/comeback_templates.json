@@ -1,0 +1,69 @@
+{
+  "styles": {
+    "savage": {
+      "description": "Maximum burn, no mercy",
+      "emoji": "🔥",
+      "instructions": "Make it cut deep but clever. Reference power dialogues.",
+      "example_formats": [
+        "Ninne poloru [insult] vannaal, enikku oru chukkum cheyyan aavilla.",
+        "[Their flaw] kandal ariyaam, ninte thanthayada, thantha!",
+        "Just remember that! [Savage reality check].",
+        "Nee angane thanne nilkk, njan [harsh truth] vannu tharaam.",
+        "Kochi pazhaya Kochi aavaam, pakshe njan pazhaya [name] thanneya."
+      ]
+    },
+    "funny": {
+      "description": "Makes everyone laugh",
+      "emoji": "😂",
+      "instructions": "Use wordplay, absurd comparisons, Malayalam comedy style",
+      "example_formats": [
+        "Purushu enne anugrahikkanam, nee oru [joke] aanu.",
+        "Njan enthu cheyyana... [absurd comparison].",
+        "Ellathinum athinte thaya samayam undu Dasa, ninte [flaw] maarum.",
+        "Polandine patti oraksharam mindaruthu, ninte [weakness] poleya.",
+        "Shammi hero aada hero! Nee oru zero aada zero!"
+      ]
+    },
+    "cool_unbothered": {
+      "description": "Too cool to care",
+      "emoji": "🧊",
+      "instructions": "Show complete indifference, like it doesn't affect you at all",
+      "example_formats": [
+        "Enikku enthu patti? Ninte [opinion] enikku oru kuzhappavum illallo.",
+        "Chaambikko! [Dismissive comment].",
+        "Kurukkan mooliyatha... aaranu mindande?",
+        "Avidathe kotharam thulakkuvan ee [name]-ne kittilla.",
+        "[Dismissive response]... ente peru Suryanarayan."
+      ]
+    },
+    "intellectual": {
+      "description": "Makes the bully feel dumb",
+      "emoji": "🧠",
+      "instructions": "Use big words, logic traps, make them question themselves",
+      "example_formats": [
+        "Njan Georgekutty... ente [logical response].",
+        "Vattalle... apozhe paranjille ninte [flawed logic] vattanennu...",
+        "Oru [role]-odu chodikkan paadillaatha chodyam.",
+        "Athu oru [logical fallacy] aanu. [Explanation].",
+        "Thante [argument] kandal ariyaam vivaram illennu."
+      ]
+    },
+    "movie_reference": {
+      "description": "Adapted movie dialogue",
+      "emoji": "🎬",
+      "instructions": "Adapt a famous Malayalam movie dialogue to fit the situation",
+      "example_formats": [
+        "Like [Actor] said in [Movie]: '[Adapted Quote]'",
+        "[Famous Dialogue], athu thanneya enikkum parayaan ullathu.",
+        "Ormathundo ee mugham? [Movie reference].",
+        "[Adapted line]... Aadu Thoma style-il parayam.",
+        "[Character name] paranjathu pole... [Quote]."
+      ]
+    }
+  },
+  "adaptive_rules": [
+    {"severity": "mild", "description": "Light teasing", "recommended_styles": ["funny", "cool_unbothered"]},
+    {"severity": "moderate", "description": "Mean comment", "recommended_styles": ["savage", "movie_reference", "intellectual"]},
+    {"severity": "harsh", "description": "Personal attack", "recommended_styles": ["savage", "intellectual", "cool_unbothered"]}
+  ]
+}

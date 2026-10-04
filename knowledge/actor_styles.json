@@ -1,0 +1,103 @@
+{
+  "actors": [
+    {
+      "name": "Mohanlal",
+      "nickname": "Lalettan",
+      "style_description": "Effortlessly arrogant, subtly dangerous, and charismatic.",
+      "energy": "swagger",
+      "signature_delivery": "Tilting the head, a slight smile, speaking softly before delivering a loud punch.",
+      "best_for_situations": ["When you need to assert dominance smoothly", "When warning someone politely"],
+      "iconic_burns": ["Ninte thanthayada, thantha!", "Aadu Thoma!", "Ente peru Suryanarayan..."]
+    },
+    {
+      "name": "Mammootty",
+      "nickname": "Mammukka",
+      "style_description": "Intense, articulate, often with a powerful booming voice or a very slow, calculated tone.",
+      "energy": "intense",
+      "signature_delivery": "Staring directly, delivering long, uninterrupted English-laced dialogues.",
+      "best_for_situations": ["Dismantling someone's logic", "Intimidating a crowd"],
+      "iconic_burns": ["Ninne poloru nooru per vannaal...", "Kochi pazhaya Kochi alla..."]
+    },
+    {
+      "name": "Suresh Gopi",
+      "nickname": "SG",
+      "style_description": "Explosive, loud, heavily reliant on English swear words and direct threats.",
+      "energy": "intense",
+      "signature_delivery": "Pointing fingers, heavy breathing, shouting suddenly.",
+      "best_for_situations": ["Aggressive confrontations", "When provoked heavily"],
+      "iconic_burns": ["Ormayundo ee mugham?", "Just remember that!"]
+    },
+    {
+      "name": "Fahadh Faasil",
+      "nickname": "FaFa",
+      "style_description": "Psychopathic calmness, deeply sarcastic, unsettling.",
+      "energy": "intellectual",
+      "signature_delivery": "Wide eyes, fake smiles, whispering insults.",
+      "best_for_situations": ["Creepy comebacks", "When acting crazy wins the argument"],
+      "iconic_burns": ["Shammi hero aada hero", "Vattalle..."]
+    },
+    {
+      "name": "Prithviraj",
+      "nickname": "Raju",
+      "style_description": "Stubborn, unyielding, with a hint of educated arrogance.",
+      "energy": "intense",
+      "signature_delivery": "Deadpan stare, speaking with extreme conviction.",
+      "best_for_situations": ["Refusing to back down", "Defending your ego"],
+      "iconic_burns": ["Nee angane thanne nilkk...", "Enikku enthu patti?"]
+    },
+    {
+      "name": "Tovino Thomas",
+      "nickname": "Tovi",
+      "style_description": "Modern, grounded, slightly goofy but tough.",
+      "energy": "cool",
+      "signature_delivery": "Casual body language, reacting like it's a joke.",
+      "best_for_situations": ["Dismissing something as trivial", "Youthful banter"],
+      "iconic_burns": ["Kurukkan mooliyatha...", "Manavaalan Wazim aano..."]
+    },
+    {
+      "name": "Dileep",
+      "nickname": "Janapriya Nayakan",
+      "style_description": "Slapstick, quick-witted, self-deprecating but sharp.",
+      "energy": "funny",
+      "signature_delivery": "Exaggerated facial expressions, rapid-fire responses.",
+      "best_for_situations": ["Deflecting insults with humor", "Making a joke out of a serious threat"],
+      "iconic_burns": ["CID Moosa...", "Purushu enne anugrahikkanam."]
+    },
+    {
+      "name": "Jagathy Sreekumar",
+      "nickname": "Jagathy",
+      "style_description": "Master of timing, bizarre logic, and legendary facial expressions.",
+      "energy": "funny",
+      "signature_delivery": "Confusing the opponent with sheer absurdity.",
+      "best_for_situations": ["When you have no logical comeback", "Derailing the conversation"],
+      "iconic_burns": ["Akkaldama...", "Vellam... vellam..."]
+    },
+    {
+      "name": "Sreenivasan",
+      "nickname": "Sreeni",
+      "style_description": "Satirical, dry humor, overly intellectual but flawed.",
+      "energy": "intellectual",
+      "signature_delivery": "Speaking like a professor about something very stupid.",
+      "best_for_situations": ["Mocking someone's intelligence", "Avoiding responsibility cleverly"],
+      "iconic_burns": ["Polandine patti...", "Ellathinum athinte thaya samayam undu..."]
+    },
+    {
+      "name": "Innocent",
+      "nickname": "Innocent",
+      "style_description": "Helpless frustration, unique Thrissur slang, hilarious cowardice.",
+      "energy": "funny",
+      "signature_delivery": "Scratching the head, looking up, complaining to God.",
+      "best_for_situations": ["Reacting to a ridiculous insult", "Sarcastic surrender"],
+      "iconic_burns": ["Njan enthu cheyyana...", "Kambi mathi..."]
+    },
+    {
+      "name": "Salim Kumar",
+      "nickname": "Salim",
+      "style_description": "Dark humor, cynical, brutally honest about his own failures.",
+      "energy": "funny",
+      "signature_delivery": "Deadpan delivery of the most depressing or sarcastic lines.",
+      "best_for_situations": ["Self-burn that burns them more", "Mocking fake greatness"],
+      "iconic_burns": ["Adipoli... ellam koode sheri aayallo.", "Manavalan and sons..."]
+    }
+  ]
+}
