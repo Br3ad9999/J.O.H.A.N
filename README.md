@@ -1,4 +1,4 @@
-# 🔥 Savage Reply — AI Comeback Generator
+#  J.O.H.A.N — AI Comeback Generator
 
 > **Built for a friend who needed to fight back with words.**  
 > Powered by open-source AI. Runs on your laptop. Accessible from your phone.
